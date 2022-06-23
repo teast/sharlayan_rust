@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "sharlayan_rust",
+    "sharlayan_test"
+]
